@@ -2,4 +2,4 @@ Spanish: version 2.0 del programa creado por mi, este programa es una configurac
 
 English: version 2.0 of the program created by me, this program is a basic configuration to block outgoing steam connections allowing you to see things like the store but leave as offline for the rest of the people including the steam servers this update allows you to have a user interface being more user-friendly
 
-Espanhol: versão 2.0 do programa criado por mim, este programa é uma configuração básica para bloquear as conexões salientes do steam permitindo que você possa ver coisas como a tienda mas salgas como desconectado para o resto das pessoas incluindo os servidores steam esta atualização permite ter una interface de usuário sendo mais amigável para seu uso
+portuguese: versão 2.0 do programa criado por mim, este programa é uma configuração básica para bloquear as conexões salientes do steam permitindo que você possa ver coisas como a tienda mas salgas como desconectado para o resto das pessoas incluindo os servidores steam esta atualização permite ter una interface de usuário sendo mais amigável para seu uso
