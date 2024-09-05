@@ -1,0 +1,5 @@
+Spanish: version 1.0 del programa creado por mi, este programa es una configuraccion basica para bloquear las conexiones salientes de steam permitiendo que puedas ver cosas como la tienda pero salgas como desconectado para el resto de la gente incluyendo los servidores steam a su vez con esta actualizacion permite cambiar el idioma e incluye la misma GUI que la version 2.0
+
+english: English: version 1.0 of the program created by me, this program is a basic configuration to block outgoing steam connections allowing you to see things like the store but leave as offline for the rest of the people including the steam servers in turn with this update allows you to change the language and includes the same GUI as version 2.0
+
+Português: versão 1.0 do programa criado por mim, este programa é uma configuração básica para bloquear conexões de saída do Steam permitindo que você veja coisas como a loja mas deixe como offline para o resto das pessoas incluindo os servidores Steam por sua vez com esta atualização permite você pode alterar o idioma e inclui a mesma GUI da versão 2.0
